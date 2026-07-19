@@ -1,5 +1,5 @@
 # Online Retail EDA Analysis 
-*This project analysizes an online retail dataset to uncover sales trends, customer behaviour and business insights using Exploratory Analysis (EDA) *
+*This project analysizes an online retail dataset to uncover sales trends, customer behaviour and business insights using Exploratory Analysis (EDA)*
 
 ---
 
