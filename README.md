@@ -83,9 +83,9 @@
 Online-Retail-EDA-Analysis/
 │
 ├── data/
-│   └── raw/              # Note: raw file not hosted here (exceeds GitHub's 25MB limit) — see Data Source below
+│   └── raw/               # Note: raw file not hosted here (exceeds GitHub's 25MB limit) — see Data Source below
 │
-├── notebooks/            # Colab notebook with full cleaning, analysis, and visualizations
+├── notebooks/             # Colab notebook with full cleaning, analysis, and visualizations
 │
 ├── reports/               # Written summary report of findings
 │
