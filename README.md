@@ -36,7 +36,7 @@
 
 **Problem Statement:** The goal is to understand the retailer's sales performance, customer purchasing behavior, and seasonal trends after cleaning the dataset.
 
-**Approach:** Cleaned the dataset in Python — handling missing values, removing duplicates, standardizing text fields, and excluding invalid transactions — then explored revenue trends by month, country, and customer to surface actionable business insights.
+**Approach:** Cleaned the dataset in Python - handling missing values, removing duplicates, standardizing text fields, and excluding invalid transactions - then explored revenue trends by month, country, and customer to surface actionable business insights.
 
 **Outcome:** The cleaned dataset revealed that the UK generated most of the revenue, sales peaked in November, and a small number of products and customers contributed a large share of total sales.
 
